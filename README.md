@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nithin, a Web Developer since 2023 with hands-on experience in both frontend and backend, building a strong foundation in web applications.<br><br>Driven by my passion for AI, I explored various concepts and successfully implemented basic classification models. <br>Currently, I’m working on an AI-based manga generation project, leveraging advanced AI techniques such as OCR for text extraction, YOLO for object detection, GPT/BART/LLMs for story generation, and GANs for manga-style artwork creation, among others.<br>Looking forward to apply my skills on real world applications.
+I'm Nithin, a Web Developer since 2023 with hands-on experience in both frontend and backend, building a strong foundation in web applications.<br><br>Driven by my passion for AI, I explored various concepts and successfully implemented basic classification models. <br>Currently, I’m working on an AI-based manga generation project, leveraging advanced AI techniques such as OCR for text extraction, YOLO for object detection, GPT/BART/LLMs for story generation, and GANs for manga-style artwork creation, among others.<br>Looking forward to apply my skills in real world applications.
 
 
 ## 🌐 Socials:
