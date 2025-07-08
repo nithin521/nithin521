@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nithin, a Web Developer since 2023 with hands-on experience in both frontend and backend, building a strong foundation in web applications.<br><br>Driven by my passion for AI, I explored various concepts and successfully implemented basic classification models. <br><br>Looking forward to apply my skills in real world applications.
+I'm Nithin, a Web Developer since 2023 with hands-on experience in both frontend and backend, building a strong foundation in web applications.<br><br>Driven by my passion for AI, I explored various concepts and successfully implemented basic classification,regression models,Generative-AI models,Object Detection. <br><br>Looking forward to apply my skills in real world applications.
 
 
 ## 🌐 Socials:
