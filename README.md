@@ -1,5 +1,23 @@
-# 💫 About Me:
-I'm Nithin, a Web Developer since 2023 with hands-on experience in both frontend and backend, building a strong foundation in web applications.<br><br>Driven by my passion for AI, I explored various concepts and successfully implemented basic classification,regression models,Generative-AI models,Object Detection. <br><br>Looking forward to apply my skills in real world applications.
+## 👋 About Me
+Hi, I’m Nithin Kumar — a passionate developer exploring the intersection of Web Development and AI since 2023. My GitHub journey traces a path from building basic frontend-backend apps to experimenting with deep learning and generative models.
+
+## 🛠 What I Do
+🌐 Build full-stack apps using React, Node.js, Flask, and MongoDB
+
+🤖 Develop and train ML/DL models with PyTorch, scikit-learn, and TensorFlow
+
+🎨 Work on creative projects like manga-style image generation using Diffusers and LoRA
+
+🚀 Deploy and test on Kaggle, Google Colab, and integrate APIs for real-world use
+
+## 🧠 Tech Stack
+Languages: Python, JavaScript, Java, HTML/CSS
+Frameworks: React, Flask, Tailwind, Express
+AI/ML: scikit-learn, PyTorch, OpenCV, Diffusers
+Tools: GitHub, Hugging Face, Kaggle, MongoDB
+
+🎯 Vision
+I aim to create impactful and creative applications—blending AI, web development and design. Constantly learning, always building.
 
 
 ## 🌐 Socials:
