@@ -16,8 +16,9 @@ Frameworks: React, Flask, Tailwind, Express
 AI/ML: scikit-learn, PyTorch, OpenCV, Diffusers
 Tools: GitHub, Hugging Face, Kaggle, MongoDB
 
-🎯 Vision
+## 🎯 Vision
 I aim to create impactful and creative applications—blending AI, web development and design. Constantly learning, always building.
+
 
 
 ## 🌐 Socials:
